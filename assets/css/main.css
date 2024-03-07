@@ -3452,6 +3452,7 @@ input, select, textarea {
 	#banner {
 		background-attachment: fixed;
 		background-color: #272833;
+		opacity: 1.0;
 		background-image: url("../../images/banner.jpg");
 		background-position: center center;
 		background-size: cover;
@@ -3527,6 +3528,7 @@ input, select, textarea {
 
 	body.is-touch #banner {
 		background-attachment: scroll;
+		opacity: 1.0;
 	}
 
 /* Footer */
