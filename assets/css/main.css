@@ -4111,3 +4111,22 @@ input, select, textarea {
 					}
 
 	}
+                        .chat-container {
+                               width: 300px;
+                               margin: 0 auto;
+                               padding: 20px;
+                               border: 1px solid #ccc;
+                               border-radius: 5px;
+			}
+                              .user-msg {
+                                 background-color: #f1f1f1;
+                                 border-radius: 5px;
+                                 padding: 10px;
+                                 margin-bottom: 10px;
+    }
+                              .bot-msg {
+                                 background-color: #d9edf7;
+                                 border-radius: 5px;
+                                 padding: 10px;
+                                 margin-bottom: 10px;
+    }
